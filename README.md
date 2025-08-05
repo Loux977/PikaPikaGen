@@ -53,15 +53,15 @@ Color and coarse shape are generally well preserved, but fine features are often
 
 Qualitative results for both Intra-Test and Novel-Test scenarios are illustrated in the Figures below.
 
-<h3 style="text-align: center;">Intra-Test:</h3>
+<h3>Intra-Test:</h3>
 
-<p align="center" style="margin-bottom: 20px;">
+<p align="left" style="margin-bottom: 20px;">
   <img src="imgs/intra_test_1.png" alt="Intra Test I" width="46%" style="margin-right: 3%;" />
-  <img src="imgs/intra_test_2.png" alt="Intra Test II" width="45%" />
+  <img src="imgs/intra_test_2.png" alt="Intra Test II" width="45.2%" />
 </p>
 
-<h3 style="text-align: left; margin-left: 40px;">Novel-Test:</h3>
+<h3>Novel-Test:</h3>
 
-<p align="left" style="margin-left: 40px; margin-top: 0;">
+<p align="left" style="margin-top: 0;">
   <img src="imgs/novel_test.png" alt="Novel Test" width="45%" />
 </p>
