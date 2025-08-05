@@ -215,7 +215,7 @@ pikapikagen_venv/
 
 # Dataset
 dataset/images/
-dataset/pokedex/
+dataset/pokedex.csv
 
 # TensorBoard logs & Test results
 runs/
