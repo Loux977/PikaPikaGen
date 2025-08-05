@@ -1,0 +1,17 @@
+### TRAIN ###
+
+python main.py --cfg configs/train.yaml
+
+tensorboard --logdir=.\outputs\runs
+
+
+### TEST ### 
+
+python main.py --cfg configs/test.yaml
+
+python gradio_app.py
+
+
+### VENV ###
+
+.\pikapikagen_venv\Scripts\activate.bat

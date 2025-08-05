@@ -1,0 +1,12 @@
+numpy==2.3.2
+pandas==2.3.1
+Pillow==11.3.0
+PyYAML==6.0.2
+PyYAML==6.0.2
+torch==2.7.1+cu118
+torch_fidelity==0.3.0
+torchmetrics==1.7.4
+torchvision==0.22.1+cu118
+tqdm==4.67.1
+transformers==4.53.1
+gradio==5.39.0
